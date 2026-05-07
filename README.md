@@ -1,9 +1,7 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7A5AF8&width=435&lines=%E2%9C%A8+Ol%C3%A1%2C+eu+sou+a+Maicon Sotto!;Bem-vindo(a)+ao+meu+perfil+%F0%9F%92%9C" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=95908D&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Maicon+Sotto." alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" alt="Coding GIF">
+  <img src="https://i.pinimg.com/originals/a5/d5/6a/a5d56abf220058acad3f6106d7be5400.gif" width="500" alt="Coding GIF">
 </p>
 
 ---
