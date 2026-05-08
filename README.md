@@ -6,7 +6,7 @@
 
 ---
 
-## ✧ Sobre mim
+## 🗁 Sobre mim
 🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP Araraquara  
 💻 Apaixonado por tecnologia, desenvolvimento web e design de interfaces  
 ⚡ Proativo, dedicado e sempre buscando aprender novas tecnologias  
