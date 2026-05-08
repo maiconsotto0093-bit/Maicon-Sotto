@@ -1,51 +1,87 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CF2F2F&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Maicon+Sotto." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=CF2F2F&center=true&vCenter=true&width=600&lines=%E3%80%8C+Ol%C3%A1%2C+Meu+nome+%C3%A9+Maicon+Sotto+%E3%80%8D;Desenvolvedor+em+evolu%C3%A7%C3%A3o+%F0%9F%A9%B8;Welcome+to+my+world..." alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a5/d5/6a/a5d56abf220058acad3f6106d7be5400.gif" width="500" alt="Coding GIF">
+  <img src="https://i.pinimg.com/originals/a5/d5/6a/a5d56abf220058acad3f6106d7be5400.gif" width="600" alt="Tokyo Ghoul GIF">
 </p>
 
----
+<div align="center">
 
-## 🗁 Sobre mim
-🖥️ **Cursando Tecnologia em Sistemas para Internet** | IFSP Araraquara  
-💻 Apaixonado por tecnologia, desenvolvimento web e design de interfaces  
-⚡ Proativo, dedicado e sempre buscando aprender novas tecnologias  
+# 🩸 東京喰種 — Tokyo Ghoul
 
----
+*"Sometimes good people make bad choices."*
 
-## 👾 Habilidades
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 </div>
 
 ---
 
+## 🕯️ Sobre mim
 
-## ✧ Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maicon-silva-608225317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7A5AF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-
-  <a href="mailto: maiconsotto0093@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9B87F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+🖥️ **Cursando Tecnologia em Sistemas para Internet** — IFSP Araraquara  
+💻 Apaixonado por tecnologia, desenvolvimento web e interfaces modernas  
+⚡ Proativo, dedicado e sempre em busca de evolução  
+🌑 Inspirado pela estética dark e atmosfera de *Tokyo Ghoul*  
 
 ---
 
+## ⚔️ Habilidades
 
 <div align="center">
 
-✨ Obrigado por visitar meu perfil!  
- 👨🏻‍💻 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na tecnologia.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML logo" />
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
+
+</div>
+
+---
+
+## 🩸 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CF2F2F&icon_color=CF2F2F&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CF2F2F&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+## ☕ Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/maicon-silva-608225317/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:maiconsotto0093@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=CF2F2F"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/6ZUs58774WQAAAAC/kaneki-ken.gif" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 「 Keep moving forward. 」
+
+🩸 Obrigado por visitar meu perfil.  
+👨🏻‍💻 Explore meus projetos e acompanhe minha evolução no mundo da tecnologia.
 
 </div>
